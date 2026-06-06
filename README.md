@@ -10,6 +10,14 @@ This repository collects three lecture-note PDFs that I am maintaining and revis
 | Modern Probability Foundations | [notes/modern_probability_foundations.pdf](notes/modern_probability_foundations.pdf) |
 | Financial Math Basic | [notes/financial_math_basic_shenhan.pdf](notes/financial_math_basic_shenhan.pdf) |
 
+## Latest Update
+
+Updated on 2026-06-06:
+
+- Modern Probability Foundations: Section 2.4, Lebesgue integrals and integrable functions.
+- Financial Math Basic: Lecture 007, attainable payoff sets, arbitrage cones, and positive payoff cones.
+- AI Emergence Math: Lectures 001 and 002, vector spaces, AI representations, subspaces, span, and linear closure.
+
 ## About This Project
 
 These notes were drafted with help from ChatGPT Pro and typeset/organized with help from Codex. I am keeping that process explicit because it is part of the learning experiment: use AI to quickly build a lecture-note scaffold, then keep reading, checking, correcting, annotating, and improving it as my own understanding grows.
