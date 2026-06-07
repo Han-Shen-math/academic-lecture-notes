@@ -12,11 +12,11 @@ This repository collects three lecture-note PDFs that I am maintaining and revis
 
 ## Latest Update
 
-Updated on 2026-06-06:
+Updated on 2026-06-07:
 
-- Modern Probability Foundations: Section 2.4, Lebesgue integrals and integrable functions.
-- Financial Math Basic: Lecture 007, attainable payoff sets, arbitrage cones, and positive payoff cones.
-- AI Emergence Math: Lectures 001 and 002, vector spaces, AI representations, subspaces, span, and linear closure.
+- Modern Probability Foundations: Section 2.5, monotone convergence, Fatou's lemma, and dominated convergence.
+- Financial Math Basic: Lecture 008, the algebraic no-arbitrage form C intersect L0+ = {0}, arbitrage cones, and the bridge to separation arguments.
+- AI Emergence Math: Lectures 003 and 004, linear independence, bases, dimension, coordinate representations, and change of basis.
 
 ## About This Project
 
